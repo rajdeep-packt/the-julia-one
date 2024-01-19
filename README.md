@@ -23,11 +23,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/Masteri
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
-The code will look like the following:
-```
-Paste code snippet from Preface, delete the section if not required.
-
-```
 
 **Following is what you need for this book:**
 This book is not an introduction to computer programming, but a practical guide for developers who want to enhance their basic knowledge of Julia, or those wishing to augment their skill set by adding Julia to their existing roster of programming languages. Familiarity with a scripting language such as Python or R, or a compiled language such as C/C++, C# or Java, is a prerequisite.
